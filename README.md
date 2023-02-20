@@ -59,3 +59,5 @@ Disadvantages of Generative Adversarial Networks (GANs):
 - Overfitting: GANs can overfit to the training data, producing synthetic data that is too similar to the training data and lacking diversity.
 - Bias and fairness: GANs can reflect the biases and unfairness present in the training data, leading to discriminatory or biased synthetic data.
 - Interpretability and accountability: GANs can be opaque and difficult to interpret or explain, making it challenging to ensure accountability, transparency, or fairness in their applications.
+
+source: https://www.geeksforgeeks.org/generative-adversarial-network-gan/
